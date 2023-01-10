@@ -1,0 +1,45 @@
+{
+    "os": "macOS-10.16-x86_64-i386-64bit",
+    "python": "3.10.8",
+    "heartbeatAt": "2023-01-09T11:02:26.862106",
+    "startedAt": "2023-01-09T11:02:26.148017",
+    "docker": null,
+    "cuda": null,
+    "args": [
+        "-e",
+        "1"
+    ],
+    "state": "running",
+    "program": "/Users/MarkusOlsen/School/MachineLearningOperations/src/models/train_model.py",
+    "codePath": "src/models/train_model.py",
+    "git": {
+        "remote": "https://github.com/markusOlsen1/MachineLearningOperations.git",
+        "commit": "05c5b11c70febf85ac5c9c199455c683ccd9cd82"
+    },
+    "email": "markusditlevolsen@gmail.com",
+    "root": "/Users/MarkusOlsen/School/MachineLearningOperations",
+    "host": "Markuss-MacBook-Air.local",
+    "username": "MarkusOlsen",
+    "executable": "/Users/MarkusOlsen/anaconda3/envs/mlops/bin/python3",
+    "cpu_count": 2,
+    "cpu_count_logical": 4,
+    "cpu_freq": {
+        "current": 1400,
+        "min": 1400,
+        "max": 1400
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 1400,
+            "min": 1400,
+            "max": 1400
+        }
+    ],
+    "disk": {
+        "total": 112.80464935302734,
+        "used": 14.27044677734375
+    },
+    "memory": {
+        "total": 8.0
+    }
+}
